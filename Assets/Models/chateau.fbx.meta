@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7f815ab74489d43859328197805ba3c7
+timeCreated: 1474383730
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cannal
+    100002: //RootNode
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Escaliers
+    100012: Murs
+    100014: Pillar
+    100016: "Socle_Inf\xE9rieur"
+    100018: Socle_Superieur
+    100020: Socle_Superieur.001
+    100022: Socle_Toit
+    100024: Toit_Angles
+    100026: Toit_Angles_2
+    100028: Toit_Piques
+    100030: "Toit_Socle_Sup\xE9rieur"
+    100032: Toits_Piques
+    400000: Cannal
+    400002: //RootNode
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Escaliers
+    400012: Murs
+    400014: Pillar
+    400016: "Socle_Inf\xE9rieur"
+    400018: Socle_Superieur
+    400020: Socle_Superieur.001
+    400022: Socle_Toit
+    400024: Toit_Angles
+    400026: Toit_Angles_2
+    400028: Toit_Piques
+    400030: "Toit_Socle_Sup\xE9rieur"
+    400032: Toits_Piques
+    2300000: Cannal
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Escaliers
+    2300010: Murs
+    2300012: Pillar
+    2300014: "Socle_Inf\xE9rieur"
+    2300016: Socle_Superieur
+    2300018: Socle_Superieur.001
+    2300020: Socle_Toit
+    2300022: Toit_Angles
+    2300024: Toit_Angles_2
+    2300026: Toit_Piques
+    2300028: "Toit_Socle_Sup\xE9rieur"
+    2300030: Toits_Piques
+    3300000: Cannal
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Escaliers
+    3300010: Murs
+    3300012: Pillar
+    3300014: "Socle_Inf\xE9rieur"
+    3300016: Socle_Superieur
+    3300018: Socle_Superieur.001
+    3300020: Socle_Toit
+    3300022: Toit_Angles
+    3300024: Toit_Angles_2
+    3300026: Toit_Piques
+    3300028: "Toit_Socle_Sup\xE9rieur"
+    3300030: Toits_Piques
+    4300000: Cube.002
+    4300002: Cannal
+    4300004: Toit_Piques
+    4300006: Toits_Piques
+    4300008: Toit_Angles
+    4300010: Toit_Angles_2
+    4300012: "Toit_Socle_Sup\xE9rieur"
+    4300014: Socle_Toit
+    4300016: Murs
+    4300018: Socle_Superieur.001
+    4300020: Pillar
+    4300022: Socle_Superieur
+    4300024: "Socle_Inf\xE9rieur"
+    4300026: Escaliers
+    4300028: Cube.001
+    4300030: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
